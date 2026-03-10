@@ -34,5 +34,18 @@ public class OopsBanner{
     for (String line : lines) {
         System.out.println(line);
     }
+//uc5:
+    String[] lines = {
+        String.join(" ","   ***       *****  "),
+        String.join(" "," **   **    **    * "),
+        String.join(" "," *     *    **      "),
+        String.join(" "," *     *     ***    "),
+        String.join(" "," *     *        **  "),
+        String.join(" "," **   **   *    **  "),
+        String.join(" ","   ***      *****   ")
+    };
+        for (String line : lines) {
+            System.out.println(line);
+        }
   }
 }
