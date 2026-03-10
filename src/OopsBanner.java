@@ -10,5 +10,14 @@ public class OopsBanner{
         System.out.println(" *     *   *     *   **           **  ");
         System.out.println(" **   **   **   **   **      *    **  ");
         System.out.println("   ***       ***     **       *****   ");
+
+         // uc3:
+        System.out.println("   ***       *****  ");
+        System.out.println(" **   **    **    * ");
+        System.out.println(" *     *    **      ");
+        System.out.println(" *     *     ***    ");
+        System.out.println(" *     *        **  ");
+        System.out.println(" **   **   *    **  ");
+        System.out.println("   ***      *****   ");
   }
 }
