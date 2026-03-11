@@ -47,6 +47,8 @@ public class OopsBanner{
         for (String line : lines) {
             System.out.println(line);
         }
+  }
+  public static String[] getPpattern(){
         return new String[]{
         "   ***   ",
         " **   ** ",     
